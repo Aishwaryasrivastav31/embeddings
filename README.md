@@ -1,1 +1,1 @@
-# embeddings
+This project explores the foundational mechanics of Retrieval-Augmented Generation (RAG) by implementing text-to-vector transformations. Using Hugging Face's all-MiniLM-L6-v2 transformer model, I’ve demonstrated how raw text is tokenized and mapped into a 384-dimensional semantic space. This process is the 'retrieval' engine's core, enabling AI systems to find relevant context through mathematical similarity rather than just keyword matching—a crucial step for building intelligent, data-driven LLM applications
